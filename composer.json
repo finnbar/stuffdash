@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tumblr/tumblr": "^0.1.1",
+        "nategood/httpful": "^0.2.19",
+        "jublonet/codebird-php": "^2.7"
+    }
+}

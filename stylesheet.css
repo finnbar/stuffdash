@@ -1,0 +1,72 @@
+html *{
+   font-family: "HankenBook", "Arial"; 
+   font-weight: normal; 
+   font-style: normal;
+}
+
+div{
+	border-radius: 2.5px;
+}
+
+body {
+	background-color: #ffb938;
+	background-opacity: 0.2;
+    margin: 0;
+    width: 100%;
+}
+
+#Header{
+	height: 10px;
+	border: 0;
+	background-color: #ff4801;
+}
+
+#Left{
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+#Middle{
+	margin: 0 auto;
+	padding: 5px;
+	text-align: center;
+	height: 90%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #45cde0;
+}
+
+#Right{
+	float: right;
+	padding: 5px;
+	overflow-y:scroll;
+	height: 90%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #45cde0;
+	text-align: center;
+}
+
+#heading {
+	padding-bottom: 5px;
+}
+
+#topbar {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#sharer {
+	float:right;
+}
+
+.feed{
+	max-height: 600px;
+	overflow-y: auto;
+}
+
+.feed2 {
+	max-height: 650px;
+	overflow-y: auto;
+}
